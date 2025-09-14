@@ -1,8 +1,3 @@
-## Author’s Note
+Author’s Note (revised)
 
-This work is presented as an exploratory hypothesis rather than a definitive theory.  
-Its purpose is to stimulate discussion, highlight possible connections, and propose falsifiable ideas regarding the nature of dark matter and dark energy.  
-
-The framework is speculative, and many details remain to be developed, particularly at the mathematical and simulation level. Nevertheless, we believe it offers an original perspective inspired by Dirac’s vacuum concept, with predictions that can, in principle, be tested against observations.  
-
-We welcome constructive criticism, collaboration, and feedback to improve and refine the model.
+This work originated from the hypothesis that a nonlocal “vacuum echo” could fully account for flat galactic rotation curves. Our simulations demonstrated that this expectation was overstated: the linear response contributes only ≈10–20% to circular velocities, insufficient to replace dark halos. However, rather than discarding the framework, we recognized its value as a subdominant effective component. By extending the susceptibility to a visco-elastic, causal form χ(ω,k), we uncovered a new and falsifiable signature: resonant bar braking when Ωₚτ ≈ 1 and L_bar ≈ ξ. We consider this shift of focus—from “alternative to halos” to “effective correction with predictive power”—as the true contribution of this paper. It turns a negative result into a constructive path for testing the vacuum’s role in galactic dynamics.
